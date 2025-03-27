@@ -3,7 +3,7 @@ name: Baby Panda
 role: Mascot
 pronouns: he/him
 email: 
-photo: assets/staff-images/sp24/panda-baby.jpg
+photo: assets/staff-images/wi25/panda-baby.jpg
 description: 2nd year, Data Science
 hometown: IKEA
 askabout: Feasting on bamboo, cuddling, analyzing tabular data in Python
