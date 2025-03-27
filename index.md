@@ -20,8 +20,8 @@ nav_order: 1
 >Welcome to DSC 10! Make sure to read this website thoroughly and complete the items in the [Getting Started](https://dsc10.com/syllabus/#-getting-started) checklist. -->
 
 
-<!--{: .warning }
-This site is **under construction**. Anything you read here is not finalized. This disclaimer will be removed when the site is ready for Fall 2024.-->
+{: .warning }
+This site is **under construction**. Anything you read here is not finalized. This disclaimer will be removed when the site is ready for Spring 2025.
 
 <!--{: .success }
 >The Final Exam is **this Saturday, December 7th from 11:30AM to 2:30PM**.
