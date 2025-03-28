@@ -20,6 +20,7 @@ baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://dsc10.com' # the base hostname & protocol for your site, e.g. http://example.com
 author: DSC 10 Instructors and Course Staff
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+classroom: (A) MWF 9-9:50AM, (B) MWF 11-11:50AM in <a href="https://map.concept3d.com/?id=1005#!m/237105?share">Solis 104</a>
 
 
 # Theme settings
