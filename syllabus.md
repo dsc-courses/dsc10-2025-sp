@@ -422,10 +422,10 @@ You must attend **your assigned quiz session**; see the [Quiz Sessions](#quiz-se
 To summarize all of the events and deadlines, refer to this general weekly
 schedule. Please refer to the [homepage of this website](..) for the most up-to-date schedule of deadlines.
 
-| | **Sunday** | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** |
-| morning | | Lecture| | Lecture | | Lecture | |
-| afternoon | | sometimes Discussion or Quiz| | sometimes Discussion or Quiz | | | |
-| evening | | <b style="color:red">Homework due</b> | | | <b style="color:red">Lab due</b> | | |
+| | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** |
+| **morning** | Lecture| | Lecture | | Lecture | |
+| **afternoon** | sometimes Discussion or Quiz| | sometimes Discussion or Quiz | | | 
+| **evening** | <b style="color:red">Homework due</b> | | | <b style="color:red">Lab due</b> | | 
 
 ---
 
