@@ -47,8 +47,8 @@ The contents of this course come from UC Berkeley's Data 8 course, created by An
 ### Lecture
 
 There are two lecture sections:
-- Section A: MWF 9-9:50AM in [Solis 104]https://map.concept3d.com/?id=1005#!m/237105 .
-- Section B: MWF 11-11:50AM in [Solis 104]https://map.concept3d.com/?id=1005#!m/237105 .
+- Section A: MWF 9-9:50AM in [Solis 104](https://map.concept3d.com/?id=1005#!m/237105).
+- Section B: MWF 11-11:50AM in [Solis 104](https://map.concept3d.com/?id=1005#!m/237105).
 
 Lecture is meant to introduce you to the main concepts of the course. In-person attendance is never required, but is strongly encouraged when possible, as you’ll get the opportunity to ask questions, answer ungraded concept-check polls, and participate in discussion. 
 
@@ -387,8 +387,8 @@ Exams and quizzes are designed to test your understanding of course material, th
 ### Exams
 
 This class has one Midterm Exam and one Final Exam:
-- Midterm Exam: Friday, May 2nd, **during your enrolled lecture slot**
-- Final Exam: Saturday, June 7th from 11:30AM to 2:30PM, location TBD
+- Midterm Exam: Friday, May 2nd, **during your enrolled lecture slot**.
+- Final Exam: Saturday, June 7th from 11:30AM to 2:30PM, location TBD.
 
 Exams are cumulative, though the Final Exam will emphasize material after the Midterm Exam. Both exams will be held **in-person and on-paper**. 
 
@@ -422,9 +422,10 @@ You must attend **your assigned quiz session**; see the [Quiz Sessions](#quiz-se
 To summarize all of the events and deadlines, refer to this general weekly
 schedule. Please refer to the [homepage of this website](..) for the most up-to-date schedule of deadlines.
 
-| **Sunday** | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** |
-| | Lecture (sometimes Discussion or Quiz)| | Lecture (sometimes Discussion or Quiz) | | Lecture | |
-| | <b style="color:red">Homework due</b> | | | <b style="color:red">Lab due</b> | | |
+| | **Sunday** | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** |
+| morning | | Lecture| | Lecture | | Lecture | |
+| afternoon | | sometimes Discussion or Quiz| | sometimes Discussion or Quiz | | | |
+| evening | | <b style="color:red">Homework due</b> | | | <b style="color:red">Lab due</b> | | |
 
 ---
 
