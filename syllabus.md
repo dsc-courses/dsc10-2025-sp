@@ -47,8 +47,8 @@ The contents of this course come from UC Berkeley's Data 8 course, created by An
 ### Lecture
 
 There are two lecture sections:
-- Section A: MWF 10-10:50AM in [Center 212](https://map.concept3d.com/?id=1005#!m/163044).
-- Section B: MWF 11-11:50AM in [Center 212](https://map.concept3d.com/?id=1005#!m/163044).
+- Section A: MWF 9-9:50AM in [Solis 104]https://map.concept3d.com/?id=1005#!m/237105 .
+- Section B: MWF 11-11:50AM in [Solis 104]https://map.concept3d.com/?id=1005#!m/237105 .
 
 Lecture is meant to introduce you to the main concepts of the course. In-person attendance is never required, but is strongly encouraged when possible, as you’ll get the opportunity to ask questions, answer ungraded concept-check polls, and participate in discussion. 
 
@@ -61,12 +61,15 @@ You can attend any lecture section, but if space fills up, priority will be give
 ### Discussion 
 
 There are two discussion sections:
-- Section A: Monday and Wednesday 3-3:50PM in [Center 216](https://map.concept3d.com/?id=1005#!m/163044).
-- Section B: Monday and Wednesday 4-4:50PM in [Center 216](https://map.concept3d.com/?id=1005#!m/163044).
+- Section A: Monday or Wednesday 3-3:50PM in [Center 214](https://map.concept3d.com/?id=1005#!m/163044).
+- Section B: Monday or Wednesday 4-4:50PM in [Center 214](https://map.concept3d.com/?id=1005#!m/163044).
 
-Discussion section starts **Wednesday of Week 1**. The first discussion includes some useful instruction and tips for using Jupyter notebooks and Datahub, the programming tools we'll be using in this course. It should be helpful to get you set up and comfortable with the technology you'll be using all quarter.
+Discussion sections are sometimes held on Monday, and sometimes on Wednesday; the [homepage of this website](..) has the exact schedule.
 
-Subsequent discussion sections will be focused on quiz and exam preparation. Students will work through problems from past DSC 10 quizzes and exams and be able to get help from course staff. Attending discussion and working through practice problems gives you direct experience with the types of questions you will see on quizzes and exams. 
+
+The first discussion is on **Wednesday of Week 1**. This discussion includes some useful instruction and tips for using Jupyter notebooks and Datahub, the programming tools we'll be using in this course. It should be helpful to get you set up and comfortable with the technology you'll be using all quarter.
+
+Subsequent discussion sections will be focused on quiz and exam preparation. Students will work through problems from past DSC 10 quizzes and exams and be able to get help from course staff. Attending discussion and working through practice problems gives you direct experience with the types of questions you will see on quizzes and exams, which are typically the hardest parts of the course.
 
 You can attend any discussion session, but if space fills up, priority will be given to students officially enrolled in that section.
 
@@ -77,15 +80,12 @@ You can attend any discussion session, but if space fills up, priority will be g
 
 ### Quiz Sessions
 
-All students enrolled are assigned to a lab section (listed as LA on WebReg and the Schedule of Classes). This is a one hour block on Wednesdays that you should have reserved for this class. We will use some of this time to administer quizzes, and the rest of this time to host discussion sections. You can find the exact schedule of course meetings on the [homepage of this website](..).
+On five days throughout the quarter (four Wednesdays and one Monday), we will have short 20-minute quizzes. On the [Welcome Survey](https://forms.gle/wg33U8aUmChAKfpa6), we will ask you for your quiz time preferences among the following options, and you will be assigned a regular quiz time based on your preferences and availability of seats. We will confirm your assigned quiz time by email before Monday of Week 2.
 
-To provide some additional flexbility, we will ask you for your quiz time preferences among the following options, and you will be assigned a regular quiz time based on your preferences and availability of seats. 
-- Quiz Session 1: Wednesday 3-3:20PM in [Center 216](https://map.concept3d.com/?id=1005#!m/163044).
-- Quiz Session 2: Wednesday 3:30-3:50PM in [Center 216](https://map.concept3d.com/?id=1005#!m/163044).
-- Quiz Session 3: Wednesday 4-4:20PM in [Center 216](https://map.concept3d.com/?id=1005#!m/163044).
-- Quiz Session 4: Wednesday 4:30-4:50PM in [Center 216](https://map.concept3d.com/?id=1005#!m/163044).
-
-You can let us know your preferences on the [Welcome Survey](https://forms.gle/nxkC7tC7ezKW5svs6). We will confirm your assigned quiz time by email before Monday of Week 2.
+- Quiz Session 1: Monday and Wednesday 3-3:20PM in [Center 214](https://map.concept3d.com/?id=1005#!m/163044).
+- Quiz Session 2: Monday and Wednesday 3:30-3:50PM in [Center 214](https://map.concept3d.com/?id=1005#!m/163044).
+- Quiz Session 3: Monday and Wednesday 4-4:20PM in [Center 214](https://map.concept3d.com/?id=1005#!m/163044).
+- Quiz Session 4: Monday and Wednesday 4:30-4:50PM in [Center 214](https://map.concept3d.com/?id=1005#!m/163044).
 
 
 ### Office Hours
@@ -100,7 +100,7 @@ will hold several office hours throughout the week, all of which will be held in
 Office hours are your chance to ask for general help, clarification on
 assignments, and to review previous assignments. Our tutors have previously
 taken the class, done well, and been trained in how to help you. Course staff
-will not tell you if your answer is correct, and it is inappropriate to ask.
+will not tell you if your answer is correct, and it is not appropriate to ask.
 Here are some really good questions to ask instead:
 
 - I got confused about a concept in class. Can you explain it?
@@ -125,13 +125,13 @@ Your primary motivation when interacting with course staff should be
 
 ## 🚦 Getting Started
 
-Make sure to complete all the items listed here by **Wednesday, January 8th at 11:59PM**. If you join the course late, these items are due at 11:59PM the day after you join the class.
+Make sure to complete all the items listed here by **Thursday, April 3rd at 11:59PM**. If you join the course late, these items are due at 11:59PM the day after you join the class.
 
-1. Join [Ed](https://edstem.org/us/join/qAuHcs).
-2. Check if you can access [Gradescope](https://www.gradescope.com/courses/935898). If not, send a private message to the instructional staff on Ed with your name, PID, and email address, then we can add you so you can submit assignments.
-3. Read the syllabus and course website and complete the [Syllabus Check](https://forms.gle/9PsPmovRPTeNvdwk9).
-4. Fill out the [Welcome Survey](https://forms.gle/nxkC7tC7ezKW5svs6).
-5. Take the [Pretest](https://practice.dsc10.com/pretest/) and submit your written solutions to [Gradescope](https://www.gradescope.com/courses/935898).
+1. Join [Campuswire](https://campuswire.com/p/GAF8EAD2C) (join code: 7390).
+2. Check if you can access [Gradescope](https://www.gradescope.com/courses/1009023). If not, send a private message to the instructional staff on Campuswire with your name, PID, and email address, then we can add you so you can submit assignments.
+3. Read the syllabus and course website and complete the [Syllabus Check](https://docs.google.com/forms/d/e/1FAIpQLSdD_grvG_yDseqoS9PepgbLw6gWZAvOpS4cEgJDJSZFsf2UvQ/viewform?usp=sharing).
+4. Fill out the [Welcome Survey](https://forms.gle/wg33U8aUmChAKfpa6).
+5. Take the [Pretest](https://practice.dsc10.com/pretest/) and submit your written solutions to [Gradescope](https://www.gradescope.com/courses/1009023).
 
 
 
@@ -144,13 +144,13 @@ us if you have any concerns about access to technology. Most students bring a co
 All course content will be linked from this website, but there are a few
 additional platforms that you'll need to access:
 
-- **Ed:** We'll be using Ed as our course message and
+- **Campuswire:** We'll be using Campuswire as our course message and
   discussion board. More details are in the [Communication](#-communication)
-  section below. If you didn't already get an invitation, [join here](https://edstem.org/us/join/qAuHcs).
+  section below. If you didn't already get an invitation, [join here](https://campuswire.com/p/GAF8EAD2C) (join code: 7390).
 
 - **Gradescope:** You'll submit all assignments and exams to
-  [Gradescope](https://www.gradescope.com/courses/935898). This is where all of
-  your grades will live as well. You will be automatically added to Gradescope about 24 hours after enrolling in the course. If you need to submit assignments before then, please send a private message to the instructional staff on Ed with your name, PID, and email address.
+  [Gradescope](https://www.gradescope.com/courses/1009023). This is where all of
+  your grades will live as well. You will be automatically added to Gradescope about 24 hours after enrolling in the course. If you need to submit assignments before then, please send a private message to the instructional staff on Campuswire with your name, PID, and email address.
 
 - **DataHub:** Assignments in this course will involve programming in Python.
   DataHub ([datahub.ucsd.edu](https://datahub.ucsd.edu)) is UCSD's online data
@@ -165,13 +165,13 @@ them, too (though they're all linked at the top of this website).
 
 ### Syllabus Check
 
-To demonstrate that you have read and understood the policies on the syllabus and course website, you'll be asked to complete a [Syllabus Check](https://forms.gle/9PsPmovRPTeNvdwk9), which is a short quiz about the information contained on the syllabus and course website. You will earn participation credit by completing the Syllabus Check with a score of 80% or higher. 
+To demonstrate that you have read and understood the policies on the syllabus and course website, you'll be asked to complete a [Syllabus Check](https://docs.google.com/forms/d/e/1FAIpQLSdD_grvG_yDseqoS9PepgbLw6gWZAvOpS4cEgJDJSZFsf2UvQ/viewform?usp=sharing), which is a short quiz about the information contained on the syllabus and course website. You will earn participation credit by completing the Syllabus Check before the deadline with a score of **80% or higher**. You can only take the quiz once, so make sure to read the course website carefully before beginning.
 
 If you have questions about any course-related policies in the future, always refer to the syllabus and course website first!
 
 ### Welcome Survey
 
-Please fill out this short [Welcome Survey](https://forms.gle/nxkC7tC7ezKW5svs6) at the start of the quarter. This is required of all students.
+Please fill out this short [Welcome Survey](https://forms.gle/wg33U8aUmChAKfpa6) at the start of the quarter. This is required of all students.
 
 ### Pretest
 
@@ -183,22 +183,22 @@ The Pretest will be graded based on honest effort, not on the correctness of you
 
 ## 💬 Communication
 
-This quarter, we’ll be using [Ed](https://edstem.org/us/courses/70673/discussion/) as our course message board.
+This quarter, we’ll be using [Campuswire](https://campuswire.com/p/GAF8EAD2C) (join code: 7390) as our course message board.
 
 If you have a question about anything to do with the course — if you’re stuck
 on a problem, want clarification on the logistics, or just have a general
-question about data science — you can make a post on Ed. If your post
+question about data science — you can make a post on Campuswire. If your post
 includes any part of your solution to a problem (e.g. code), please make your
 post private; otherwise, please make your post public so that other students
 can benefit from the interaction. You can also post anonymously if you prefer.
-Course staff will regularly check Ed and try to answer any questions
+Course staff will regularly check Campuswire and try to answer any questions
 that you have. You’re also encouraged to answer a question asked by another
 student if you feel that you know the answer – this is a great way to
 strengthen your understanding of the material.
 
 {: .note }
-Please use Ed **instead of email**, as this helps us keep all course-related
-communication in one place. In particular, don't send course staff questions about course content over email/social media – Ed is the place for that.
+Please use Campuswire **instead of email**, as this helps us keep all course-related
+communication in one place. In particular, don't send course staff questions about course content over email/social media – Campuswire is the place for that.
 
 ---
 
@@ -229,7 +229,7 @@ assignment such that all the tests pass, you'll get a perfect score!
 To submit a lab, follow the instructions in the assignment to upload your
 notebook to Gradescope, which will run automated tests and assign your score.
 You should verify that all of your test cases pass on Gradescope **before the
-deadline**. Lab assignments will usually be due on **Saturdays at 11:59PM**, 
+deadline**. Lab assignments will usually be due on Thursdays at 11:59PM, 
 though you should refer to the [homepage of this website](..) for the most up-to-date schedule. We will
 release lab assignments roughly a week before they're due. **Your lowest lab score
 is dropped from your grade calculation at the end of the quarter.**
@@ -264,8 +264,8 @@ submission, this only means that you've passed the formatting tests, not the
 hidden correctness tests that determine your score.
 
 To submit a homework, follow the instructions in the assignment to upload your
-notebook to Gradescope. Homeworks will usually be due on **Tuesdays at
-11:59PM**, though you should refer to the [homepage of this website](..) for the most up-to-date schedule. 
+notebook to Gradescope. Homeworks will usually be due on Mondays at
+11:59PM, though you should refer to the [homepage of this website](..) for the most up-to-date schedule. 
 We will release homework assignments roughly a week before they're
 due. **Your lowest homework score
 is dropped from your grade calculation at the end of the quarter.**
@@ -387,12 +387,12 @@ Exams and quizzes are designed to test your understanding of course material, th
 ### Exams
 
 This class has one Midterm Exam and one Final Exam:
-- Midterm Exam: Monday, February 10th, **during your enrolled lecture slot**
-- Final Exam: Saturday, March 15th from 7 to 10PM, location TBD
+- Midterm Exam: Friday, May 2nd, **during your enrolled lecture slot**
+- Final Exam: Saturday, June 7th from 11:30AM to 2:30PM, location TBD
 
 Exams are cumulative, though the Final Exam will emphasize material after the Midterm Exam. Both exams will be held **in-person and on-paper**. 
 
-If you have a conflict with either exam, you should let us know right away via the [Welcome Survey](https://forms.gle/nxkC7tC7ezKW5svs6) to see if accomodations can be made. Without express permission otherwise, students are required to take both exams at the scheduled times.
+If you have a conflict with either exam, you should let us know right away via the [Welcome Survey](https://forms.gle/wg33U8aUmChAKfpa6) to see if accomodations can be made. Without express permission otherwise, students are required to take both exams at the scheduled times.
 
 ### Quizzes
 
@@ -400,11 +400,11 @@ Quizzes are designed to help you get more practice solving problems on-paper wit
 
 There are five quizzes throughout the quarter, administered during your assigned quiz time:
 
-- Quiz 1: Wednesday, January 22
-- Quiz 2: Wednesday, February 5
-- Quiz 3: Wednesday, February 26
-- Quiz 4: Wednesday, March 5
-- Quiz 5: Wednesday, March 12
+- Quiz 1: Wednesday, April 16
+- Quiz 2: Wednesday, April 23
+- Quiz 3: Wednesday, May 14
+- Quiz 4: Wednesday, May 21
+- Quiz 5: Monday, June 2
 
 We will count only your three highest quiz scores towards your grade. In other words, we will drop your two lowest quiz scores.
 
@@ -423,8 +423,8 @@ To summarize all of the events and deadlines, refer to this general weekly
 schedule. Please refer to the [homepage of this website](..) for the most up-to-date schedule of deadlines.
 
 | **Sunday** | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** |
-| | Lecture and Discussion | | Lecture and Discussion or Quiz | | Lecture | |
-| | | <b style="color:red">Homework due</b>| | | |<b style="color:red">Lab due</b> |
+| | Lecture (sometimes Discussion or Quiz)| | Lecture (sometimes Discussion or Quiz) | | Lecture | |
+| | <b style="color:red">Homework due</b> | | | <b style="color:red">Lab due</b> | | |
 
 ---
 
@@ -464,8 +464,8 @@ regardless of the number of points they are graded out of.
 
 If you'd like to request a regrade on any assignment, you must do so within one
 week of the assignment being graded. If you think there is a problem with the
-autograder,  please fill out the [Autograder Regrade Request Form](https://forms.gle/eryPaHyxPnzPSHny5). 
-If you think there is a problem with how your written question was graded, submit a regrade request through Gradescope.
+autograder,  please fill out the [Autograder Regrade Request Form](https://docs.google.com/forms/d/e/1FAIpQLSfe9Q1hFfaBZG_mlWPBUzzq2m9Azdk8ACnSOxbs4B0LhY-M9g/viewform?usp=sharing). 
+If you think there is a problem with how a manually-graded question was graded, submit a regrade request through Gradescope.
 
 ### Letter Grades and Incompletes
 
@@ -477,6 +477,8 @@ We will use a standard scale for assigning letter grades:
 A+ grades are given at the instructor's discretion. If you are taking the
 course P/NP, you will receive a grade of P if you meet the criteria for a C-
 grade, otherwise you will receive a grade of NP.
+
+Grades may be curved depending on overall averages. In recent quarters, there has been a small curve.
 
 If you have extenuating circumstances that prohibit your completion of
 coursework, you may be eligible for an Incomplete grade. If you are considering
@@ -530,7 +532,7 @@ The following activities are considered cheating and are not allowed in DSC 10
 (not an exhaustive list):
 
 - Using or submitting code acquired from other individuals.
-- Posting your code online, including on Ed, unless privately to
+- Posting your code online, including on Campuswire, unless privately to
   instructors only.
 - Having any other person complete any part of your assignment on your behalf.
 - Completing an assignment on behalf of someone else.
@@ -551,7 +553,7 @@ allowed in DSC 10 (not an exhaustive list):
 - Google searching for documentation on Python or babypandas.
 - Working together with other students on assignments without copying or
   sharing answers.
-- Posting a question about your approach to a problem on Ed, without
+- Posting a question about your approach to a problem on Campuswire, without
   sharing your code.
 
 The best way to avoid problems is by using your best judgment and remembering
@@ -658,7 +660,7 @@ Sorry, but instructors are not able to enroll students in classes. There is noth
 
 Waitlisted to students may attend lecture and discussion, space-permitting, and can also watch podcast recordings. You can (and should) still submit assignments if you are on the waitlist. If you get off the waitlist and are able to join the class, you will not get any extensions on past-due assignments. 
 
-Waitlisted students should have access to DataHub to work on assignments. You may need to add yourself to some course tools; see the [Getting Started](#-getting-started) section of the syllabus. If you need access to Gradescope, send a private message to the instructional staff on Ed with your name, PID, and email address.
+Waitlisted students should have access to DataHub to work on assignments. You may need to add yourself to some course tools; see the [Getting Started](#-getting-started) section of the syllabus. If you need access to Gradescope, send a private message to the instructional staff on Campuswire with your name, PID, and email address.
 
 **What are my chances of getting off the waitlist?**
 
@@ -670,7 +672,7 @@ your questions about enrollment to DSC advising. You can send an email to
 Virtual Advising Center, or stop by drop-in advising hours. In short, seats in
 the class open up when students drop the class, which can be hard to predict.
 
-**I have been added to Gradescope, Ed, and other course tools. Does
+**I have been added to Gradescope, Campuswire, and other course tools. Does
 this mean I am off the waitlist?**
 
 No. Students on the waitlist were added to all course tools, so they can

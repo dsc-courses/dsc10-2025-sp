@@ -42,7 +42,7 @@ This site is **under construction**. Anything you read here is not finalized. Th
 
 
 
-[Jump to the current week](/#week-10-review){: .btn }
+[Jump to the current week](/#week-1-python-basics){: .btn }
 
 
 {% for module in site.modules %}
