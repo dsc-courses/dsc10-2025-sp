@@ -24,8 +24,8 @@ days:
           url:
     - date: 2025-4-30
       events: 
-        - name: REV
-          type: review
+        - name: REVIEW
+          type: lecture
           title: Midterm Review
           url:
           html:
