@@ -42,10 +42,6 @@ days:
         - name: LAB 3
           type: lab
           title: DataFrames, Control Flow, and Probability
-          url: 
-        - name: SUR
-          type: survey
-          title: Mid-Quarter Survey
           url:
     - date: 2025-4-25
       events: 

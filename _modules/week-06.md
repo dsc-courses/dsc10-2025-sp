@@ -4,7 +4,7 @@ weekNumber: 6
 days:
     - date: 2025-5-5
       events: 
-        - name: LEC 15
+        - name: LEC 14
           type: lecture
           title: Bootstrapping and Confidence Intervals
           url:
@@ -20,7 +20,7 @@ days:
           url:
     - date: 2025-5-7
       events: 
-        - name: LEC 16
+        - name: LEC 15
           type: lecture
           title: Confidence Intervals, Center, and Spread
           url:
@@ -42,7 +42,7 @@ days:
           url:
     - date: 2025-5-9
       events: 
-        - name: LEC 17
+        - name: LEC 16
           type: lecture
           title: Standardization and the Normal Distribution
           url:

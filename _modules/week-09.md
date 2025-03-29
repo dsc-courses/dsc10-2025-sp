@@ -13,7 +13,7 @@ days:
           url:
     - date: 2025-5-28
       events: 
-        - name: LEC 24
+        - name: LEC 23
           type: lecture
           title: Correlation
           url:
@@ -29,7 +29,7 @@ days:
           url:
     - date: 2025-5-30
       events: 
-        - name: LEC 25
+        - name: LEC 24
           type: lecture
           title: Regression and Least Squares
           url:

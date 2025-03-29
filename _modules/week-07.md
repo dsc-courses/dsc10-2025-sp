@@ -4,7 +4,7 @@ weekNumber: 7
 days:
     - date: 2025-5-12
       events: 
-        - name: LEC 18
+        - name: LEC 17
           type: lecture
           title: The Central Limit Theorem
           url:
@@ -24,7 +24,7 @@ days:
           url:
     - date: 2025-5-14
       events: 
-        - name: LEC 19
+        - name: LEC 18
           type: lecture
           title: Choosing Sample Sizes, Statistical Models
           url:
@@ -47,7 +47,7 @@ days:
           url:
     - date: 2025-5-16
       events: 
-        - name: LEC 20
+        - name: LEC 19
           type: lecture
           title: Hypothesis Testing
           url:

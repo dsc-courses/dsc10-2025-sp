@@ -4,7 +4,7 @@ weekNumber: 10
 days:
     - date: 2025-6-2
       events: 
-        - name: LEC 26
+        - name: LEC 25
           type: lecture
           title: Residuals and Inference
           url:
@@ -19,13 +19,7 @@ days:
           title: Quiz 5 covers Lectures 21-24
     - date: 2025-6-4
       events: 
-        - name: LEC 27
-          type: lecture
-          title: Review
-          url:
-          html:
-          podcast:
-          readings:
+        - markdown_content: <b>Review</b>
         - name: PROJ
           type: proj
           title: Final Project
@@ -36,13 +30,7 @@ days:
           url:
     - date: 2025-6-6
       events: 
-        - name: LEC 28
-          type: lecture
-          title: Review, Conclusion
-          url:
-          html:
-          podcast:
-          readings:
+        - markdown_content: <b>Review, Conclusion</b>
     - date: 2025-6-7
       events: 
         - name: EXAM

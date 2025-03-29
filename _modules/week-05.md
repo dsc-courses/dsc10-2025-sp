@@ -21,16 +21,14 @@ days:
         - name: DISC 5
           type: disc
           title: Probability and Simulation
+          url: 
+        - name: SUR
+          type: survey
+          title: Mid-Quarter Survey
           url:
     - date: 2025-4-30
       events: 
-        - name: REVIEW
-          type: lecture
-          title: Midterm Review
-          url:
-          html:
-          podcast:
-          readings:
+        - markdown_content: <b>Midterm Review</b>
     - date: 2025-5-2
       events: 
         - name: EXAM

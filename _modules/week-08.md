@@ -4,7 +4,7 @@ weekNumber: 8
 days:
     - date: 2025-5-19
       events: 
-        - name: LEC 21
+        - name: LEC 20
           type: lecture
           title: Hypothesis Testing and Total Variation Distance
           url:
@@ -26,7 +26,7 @@ days:
           url:
     - date: 2025-5-21
       events: 
-        - name: LEC 22
+        - name: LEC 21
           type: lecture
           title: TVD, Hypothesis Testing, and Permutation Testing
           url:
@@ -47,7 +47,7 @@ days:
           url:
     - date: 2025-5-23
       events: 
-        - name: LEC 23
+        - name: LEC 22
           type: lecture
           title: Permutation Testing
           url:
