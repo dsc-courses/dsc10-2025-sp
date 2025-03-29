@@ -27,8 +27,11 @@ days:
           title: Mid-Quarter Survey
           url:
     - date: 2025-4-30
-      events: 
-        - markdown_content: <b>Midterm Review</b>
+      events:
+        - name: REVIEW
+          type: lecture
+          title: Midterm Review
+          url:
     - date: 2025-5-2
       events: 
         - name: EXAM
