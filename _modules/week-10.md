@@ -19,7 +19,7 @@ days:
           title: Quiz 5 covers Lectures 21-24
     - date: 2025-6-4
       events: 
-        - name: REVIEW
+        - name: REV
           type: lecture
           title: Review
           url:
@@ -33,7 +33,7 @@ days:
           url:
     - date: 2025-6-6
       events: 
-        - name: REVIEW
+        - name: REV
           type: lecture
           title: Review, Conclusion
           url:
