@@ -36,6 +36,15 @@ days:
           type: survey
           title: Welcome Survey
           url: https://forms.gle/wg33U8aUmChAKfpa6
+        - name: SYL
+          type: survey
+          title: Syllabus Check
+          url: https://docs.google.com/forms/d/e/1FAIpQLSdD_grvG_yDseqoS9PepgbLw6gWZAvOpS4cEgJDJSZFsf2UvQ/viewform?usp=sharing
+        - name: PRE
+          type: survey
+          title: Pretest
+          url: https://practice.dsc10.com/pretest/index.html
+        
     - date: 2025-4-4
       events: 
         - name: LEC 3
