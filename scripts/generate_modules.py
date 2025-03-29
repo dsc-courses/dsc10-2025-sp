@@ -12,7 +12,7 @@ import numpy as np
 CSV_PATH = "/Users/ray/Desktop/dsc10-2025-sp/scripts/Lecture Schedule – DSC 10, Spring 2025 - sp25.csv"  #CHANGE CSV PATH for your computer
 DATE_FORMAT = "DATE MONTH/DAY"
 YEAR = 2025
-START_FROM_WEEK = 1 #only future weeks!
+START_FROM_WEEK = 3 #only future weeks!
 
 
 def fill_missing_vals(df):
