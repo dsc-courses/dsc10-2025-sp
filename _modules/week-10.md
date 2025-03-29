@@ -19,7 +19,10 @@ days:
           title: Quiz 5 covers Lectures 21-24
     - date: 2025-6-4
       events: 
-        - markdown_content: <b>Review</b>
+        - name: REVIEW
+          type: lecture
+          title: Review
+          url:
         - name: PROJ
           type: proj
           title: Final Project
@@ -30,7 +33,10 @@ days:
           url:
     - date: 2025-6-6
       events: 
-        - markdown_content: <b>Review, Conclusion</b>
+        - name: REVIEW
+          type: lecture
+          title: Review, Conclusion
+          url:
     - date: 2025-6-7
       events: 
         - name: EXAM
