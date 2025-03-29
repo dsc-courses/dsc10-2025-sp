@@ -1,38 +1,30 @@
 ---
-title: Week 3 – Histograms and Functions
+title: Week 3 – Data Visualization and Functions
 weekNumber: 3
 days:
-    - date: 2025-1-20
-      events: 
-        - markdown_content: <b>No Lecture (Martin Luther King Jr. Day)</b>
-    - date: 2025-1-21
-      events:
-        - name: HW 1
-          type: hw
-          title: Basic Python, Arrays, and DataFrames
-          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-wi&subPath=homeworks/hw01/hw01.ipynb
-    - date: 2025-1-22
+    - date: 2025-4-14
       events: 
         - name: LEC 7
           type: lecture
           title: Distributions and Histograms
-          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-wi&subPath=lectures/lec07/lec07.ipynb
-          html: resources/lectures/lec07/lec07.html
+          url:
+          html:
           podcast:
           readings:
             - name: CIT 7.2-7.3
               url: https://inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html
           keywords: distributions, density histograms, binning, total area, overlaid plots
-        - name: QUIZ 1
-          type: quiz
-          title: Quiz 1 covers Lectures 1-6
-    - date: 2025-1-24
+        - name: DISC 3
+          type: disc
+          title: Querying, Grouping, and Plotting
+          url:
+    - date: 2025-4-16
       events: 
         - name: LEC 8
           type: lecture
           title: Functions and Applying
-          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-wi&subPath=lectures/lec08/lec08.ipynb
-          html: resources/lectures/lec08/lec08.html
+          url:
+          html:
           podcast:
           readings:
             - name: BPD 6
@@ -40,10 +32,27 @@ days:
             - name: 12
               url: https://notes.dsc10.com/02-data_sets/apply.html
           keywords: functions, arguments, print vs. return, .apply, .reset_index
-    - date: 2025-1-25
+        - name: QUIZ 1
+          type: quiz
+          title: Quiz 1 covers Lectures 1-5
+    - date: 2025-4-17
       events:
         - name: LAB 2
           type: lab
           title: Data Visualizations and Functions
-          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-wi&subPath=labs/lab02/lab02.ipynb
+          url:
+    - date: 2025-4-18
+      events: 
+        - name: LEC 9
+          type: lecture
+          title: Grouping on Multiple Columns, Merging
+          url:
+          html:
+          podcast:
+          readings:
+            - name: BPD 11
+              url: https://notes.dsc10.com/02-data_sets/groupby.html
+            - name: 13
+              url: https://notes.dsc10.com/02-data_sets/merging.html
+          keywords: .groupby([col_1, col_2, …]), subgroups, MultiIndex, .merge, number of rows
 ---
