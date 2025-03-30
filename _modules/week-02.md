@@ -14,10 +14,6 @@ days:
             - name: BPD 9
               url: https://notes.dsc10.com/02-data_sets/accessing.html
           keywords: array methods, np.arange, .read_csv, .get, .assign, .sort_values, .iloc, .loc, index
-        - name: HW 1
-          type: hw
-          title: Basic Python, Arrays, and DataFrames
-          url:
     - date: 2025-4-9
       events: 
         - name: LEC 5

@@ -16,13 +16,13 @@ days:
             - name: 11.4
               url: https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html
           keywords: fair or unfair coin, p-value, midterm exam scores, Alameda County jury, TVD
-        - name: HW 5
-          type: hw
-          title: The Normal Distribution and the Central Limit Theorem
-          url:
         - name: DISC 8
           type: disc
           title: The Central Limit Theorem and Hypothesis Testing
+          url:
+        - name: HW 5
+          type: hw
+          title: The Normal Distribution and the Central Limit Theorem
           url:
     - date: 2025-5-21
       events: 

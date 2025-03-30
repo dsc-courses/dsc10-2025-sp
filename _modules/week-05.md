@@ -14,14 +14,14 @@ days:
             - name: CIT 10.0-10.4
               url: https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html
           keywords: probability vs. empirical distribution, SRS, .sample, parameter, statistic
-        - name: HW 3
-          type: hw
-          title: DataFrames, Control Flow, and Probability
-          url:
         - name: DISC 5
           type: disc
           title: Probability and Simulation
           url: 
+        - name: HW 3
+          type: hw
+          title: DataFrames, Control Flow, and Probability
+          url:
         - name: SUR
           type: survey
           title: Mid-Quarter Survey

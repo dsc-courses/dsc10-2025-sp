@@ -18,6 +18,10 @@ days:
           type: disc
           title: Querying, Grouping, and Plotting
           url:
+        - name: HW 1
+          type: hw
+          title: Basic Python, Arrays, and DataFrames
+          url:
     - date: 2025-4-16
       events: 
         - name: LEC 8

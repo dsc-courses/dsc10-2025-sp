@@ -16,12 +16,13 @@ nav_order: 1
 <!--{: .success }
 >Because of holidays, the schedule of important dates is a bit different in the last few weeks! Next week, we have Quiz 4 on Monday, Homework 6 due on Tuesday, and Discussion 8 on Wednesday. -->
 
-<!--{: .success }
->Welcome to DSC 10! Make sure to read this website thoroughly and complete the items in the [Getting Started](https://dsc10.com/syllabus/#-getting-started) checklist. -->
+{: .success }
+>Welcome to DSC 10! Make sure to read this website thoroughly and complete the items in the [Getting Started](https://dsc10.com/syllabus/#-getting-started) checklist. 
 
 
-{: .warning }
+<!--{: .warning }
 This site is **under construction**. Anything you read here is not finalized. This disclaimer will be removed when the site is ready for Spring 2025.
+-->
 
 <!--{: .success }
 >The Final Exam is **this Saturday, December 7th from 11:30AM to 2:30PM**.
