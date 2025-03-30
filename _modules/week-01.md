@@ -18,7 +18,7 @@ days:
       events: 
         - name: LEC 2
           type: lecture
-          title: Expressions and Data Types
+          title: Variables and Data Types
           url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=lectures/lec02/lec02.ipynb
           html: resources/lectures/lec02/lec02.html
           podcast:
