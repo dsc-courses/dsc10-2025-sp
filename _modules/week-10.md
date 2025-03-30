@@ -21,7 +21,7 @@ days:
       events: 
         - name: REV
           type: lecture
-          title: Review
+          title: Final Review
           url:
         - name: PROJ
           type: proj
@@ -35,13 +35,13 @@ days:
       events: 
         - name: REV
           type: lecture
-          title: Review, Conclusion
+          title: Final Review, Conclusion
           url:
     - date: 2025-6-7
       events: 
         - name: EXAM
           type: exam
-          title: <b>Final Exam (7-10PM)</b>
+          title: <b>Final Exam (11:30AM to 2:30PM)</b>
         - name: SUR
           type: survey
           title: SETs and End-of-Quarter Survey (due 8AM)
