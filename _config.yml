@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: DSC 10
-description: DSC 10, Winter 2025 at UC San Diego
+description: DSC 10, Spring 2025 at UC San Diego
 tagline: Principles of Data Science
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://dsc10.com' # the base hostname & protocol for your site, e.g. http://example.com
