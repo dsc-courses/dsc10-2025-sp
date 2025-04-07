@@ -6,7 +6,7 @@ days:
       events: 
         - name: LEC 4
           type: lecture
-          title: Arrays and DataFrames
+          title: DataFrames
           url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=lectures/lec04/lec04.ipynb
           html: resources/lectures/lec04/lec04.html
           podcast:
