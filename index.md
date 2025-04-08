@@ -43,7 +43,7 @@ This site is **under construction**. Anything you read here is not finalized. Th
 
 
 
-[Jump to the current week](/#week-1-python-basics){: .btn }
+[Jump to the current week](/#week-2-dataframes){: .btn }
 
 
 {% for module in site.modules %}
