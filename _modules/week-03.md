@@ -43,7 +43,7 @@ days:
       events:
         - name: LAB 2
           type: lab
-          title: Data Visualizations and Functions
+          title: Data Visualizations and Python Functions
           url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=labs/lab2/lab2.ipynb
     - date: 2025-4-18
       events: 
