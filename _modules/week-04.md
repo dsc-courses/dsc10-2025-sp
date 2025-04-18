@@ -42,7 +42,7 @@ days:
         - name: LAB 3
           type: lab
           title: DataFrames, Control Flow, and Probability
-          url:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=labs/lab3/lab3.ipynb
     - date: 2025-4-25
       events: 
         - name: LEC 12
