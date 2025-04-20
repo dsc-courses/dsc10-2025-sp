@@ -43,7 +43,7 @@ This site is **under construction**. Anything you read here is not finalized. Th
 
 
 
-[Jump to the current week](/#week-3-data-visualization-and-functions){: .btn }
+[Jump to the current week](/#week-4-control-flow-and-probability){: .btn }
 
 
 {% for module in site.modules %}
