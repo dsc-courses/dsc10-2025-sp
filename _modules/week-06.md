@@ -17,7 +17,7 @@ days:
         - name: PROJ
           type: proj
           title: Midterm Project
-          url:
+          url: https://datahub.ucsd.edu/user/jlobue/tree/dsc10-2025-sp/projects/midterm_project/midterm_project.ipynb
     - date: 2025-5-7
       events: 
         - name: LEC 15
