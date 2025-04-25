@@ -25,7 +25,7 @@ days:
         - name: SUR
           type: survey
           title: Mid-Quarter Survey
-          url:
+          url: https://forms.gle/qijcdvQD2NWRxpQA9
     - date: 2025-4-30
       events:
         - name: REV
