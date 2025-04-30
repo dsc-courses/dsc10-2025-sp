@@ -31,7 +31,9 @@ days:
         - name: REV
           type: lecture
           title: Midterm Review
-          url:
+          url: resources/lectures/midterm_review.pdf
+          9am:
+          11am:
     - date: 2025-5-2
       events: 
         - name: EXAM
