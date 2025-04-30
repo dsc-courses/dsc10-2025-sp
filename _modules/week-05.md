@@ -32,8 +32,8 @@ days:
           type: lecture
           title: Midterm Review
           html: resources/lectures/midterm_review.pdf
-          9am: 
-          11am:
+          9am: resources/lectures/midterm_review_9am.pdf
+          11am: resources/lectures/midterm_review_11am.pdf
     - date: 2025-5-2
       events: 
         - name: EXAM
