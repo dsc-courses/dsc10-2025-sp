@@ -38,7 +38,7 @@ days:
       events:
         - name: LAB 4
           type: lab
-          title: Simulation, Sampling, & Bootstrapping
+          title: Simulation, Sampling, and Bootstrapping
           url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=labs/lab4/lab4.ipynb
     - date: 2025-5-9
       events: 
