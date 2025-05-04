@@ -43,7 +43,7 @@ This site is **under construction**. Anything you read here is not finalized. Th
 
 
 
-[Jump to the current week](/#week-5-simulation-sampling-and-confidence-intervals){: .btn }
+[Jump to the current week](/#week-6-midterm-exam-and-the-normal-distribution){: .btn }
 
 
 {% for module in site.modules %}
