@@ -17,7 +17,7 @@ days:
         - name: DISC 7
           type: disc
           title: Standardization and the Normal Distribution
-          url:
+          url: https://practice.dsc10.com/disc07/index.html
         - name: HW 4
           type: hw
           title: Simulation, Sampling, and Bootstrapping
