@@ -23,7 +23,7 @@ days:
         - name: HW 5
           type: hw
           title: The Normal Distribution and the Central Limit Theorem
-          url:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=homeworks/hw5/hw5.ipynb
     - date: 2025-5-21
       events: 
         - name: LEC 21
