@@ -7,8 +7,8 @@ days:
         - name: LEC 17
           type: lecture
           title: The Central Limit Theorem
-          url:
-          html:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=lectures/lec17/lec17.ipynb
+          html: resources/lectures/lec17/lec17.html
           podcast:
           readings:
             - name: CIT 14.4-14.5
@@ -27,8 +27,8 @@ days:
         - name: LEC 18
           type: lecture
           title: Choosing Sample Sizes, Statistical Models
-          url:
-          html:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=lectures/lec18/lec18.ipynb
+          html: resources/lectures/lec18/lec18.html
           podcast:
           readings:
             - name: CIT 14.6
@@ -50,8 +50,8 @@ days:
         - name: LEC 19
           type: lecture
           title: Hypothesis Testing
-          url:
-          html:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=lectures/lec19/lec19.ipynb
+          html: resources/lectures/lec19/lec19.html
           podcast:
           readings:
             - name: CIT 11.3
