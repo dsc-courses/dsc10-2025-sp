@@ -43,7 +43,7 @@ This site is **under construction**. Anything you read here is not finalized. Th
 
 
 
-[Jump to the current week](/#week-7-central-limit-theorem){: .btn }
+[Jump to the current week](/#week-8-hypothesis-and-permutation-testing){: .btn }
 
 
 {% for module in site.modules %}
