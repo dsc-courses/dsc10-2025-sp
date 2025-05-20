@@ -44,7 +44,7 @@ days:
         - name: LAB 6
           type: lab
           title: Hypothesis Testing
-          url:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=labs/lab6/lab6.ipynb
     - date: 2025-5-23
       events: 
         - name: LEC 22
