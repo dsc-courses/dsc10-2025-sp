@@ -29,8 +29,8 @@ days:
         - name: LEC 21
           type: lecture
           title: TVD, Hypothesis Testing, and Permutation Testing
-          url:
-          html:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=lectures/lec21/lec21.ipynb
+          html: resources/lectures/lec21/lec21.html
           podcast:
           readings:
             - name: CIT 12.0-12.1
@@ -50,8 +50,8 @@ days:
         - name: LEC 22
           type: lecture
           title: Permutation Testing
-          url:
-          html:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=lectures/lec22/lec22.ipynb
+          html: resources/lectures/lec22/lec22.html
           podcast:
           readings:
             - name: CIT 12.3
