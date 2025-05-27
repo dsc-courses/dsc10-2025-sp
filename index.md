@@ -14,9 +14,9 @@ nav_order: 1
 {{ site.staffersnobio }}
 
 {: .success }
->Some important scheduling notes:
+>**Some important scheduling notes:**
 >
->On Friday, Janine is out of town so there is no live lecture. Instead, [watch this recording 🎥](https://podcast.ucsd.edu/watch/wi25/dsc10_b00/25) from last quarter. 
+>On Friday, Janine is out of town so there is **no live lecture**. Instead, [watch this recording 🎥](https://podcast.ucsd.edu/watch/wi25/dsc10_b00/25) from last quarter. 
 >
 >Quiz 5 is on **Monday**, June 2nd.
 
