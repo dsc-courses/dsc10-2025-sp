@@ -26,7 +26,7 @@ days:
         - name: DISC 9
           type: disc
           title: Total Variation Distance and Permutation Testing
-          url:
+          url: https://practice.dsc10.com/disc09/index.html
     - date: 2025-5-30
       events: 
         - name: LEC 24
