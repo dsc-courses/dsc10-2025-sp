@@ -31,7 +31,7 @@ days:
       events: 
         - name: LEC 24
           type: lecture
-          title: Regression and Least Squares - **NO LIVE LECTURE**
+          title: Regression and Least Squares - <b>NO LIVE LECTURE</b>
           url:
           html:
           podcast:
