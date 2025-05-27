@@ -25,7 +25,7 @@ days:
           keywords: association, correlation coefficient (r), predicting heights, regression line (su)
         - name: DISC 9
           type: disc
-          title: Total Variation Distance and Permutation Testing
+          title: Total Variation Distance and Permutation Testin
           url: https://practice.dsc10.com/disc09/index.html
     - date: 2025-5-30
       events: 
