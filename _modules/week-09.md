@@ -16,8 +16,8 @@ days:
         - name: LEC 23
           type: lecture
           title: Correlation
-          url:
-          html:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=lectures/lec23/lec23.ipynb
+          html: resources/lectures/lec23/lec23.html
           podcast:
           readings:
             - name: CIT 15.0-15.2
@@ -34,7 +34,7 @@ days:
           title: Regression and Least Squares - <b>NO LIVE LECTURE</b>
           url:
           html:
-          podcast:
+          podcast: https://podcast.ucsd.edu/watch/wi25/dsc10_b00/25
           readings:
             - name: CIT 15.2-15.4
               url: https://inferentialthinking.com/chapters/15/2/Regression_Line.html
