@@ -22,7 +22,9 @@ days:
         - name: REV
           type: lecture
           title: Final Review
-          url:
+          url: resources/lectures/final_A.html
+          9am:
+          11am:
         - name: PROJ
           type: proj
           title: Final Project
@@ -45,5 +47,5 @@ days:
         - name: SUR
           type: survey
           title: SETs and End-of-Quarter Survey (due 8AM)
-          url:
+          url: https://forms.gle/hWqgRBp4B45LDMLW9
 ---
