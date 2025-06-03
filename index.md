@@ -13,12 +13,12 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
-{: .success }
+<!-- {: .success }
 >**Some important scheduling notes:**
 >
 >On Friday, Janine is out of town so there is **no live lecture**. Instead, [watch this recording 🎥](https://podcast.ucsd.edu/watch/wi25/dsc10_b00/25) from last quarter. 
 >
->Quiz 5 is on **Monday**, June 2nd.
+>Quiz 5 is on **Monday**, June 2nd. -->
 
 
 <!--{: .success }
@@ -29,10 +29,10 @@ nav_order: 1
 This site is **under construction**. Anything you read here is not finalized. This disclaimer will be removed when the site is ready for Spring 2025.
 -->
 
-<!--{: .success }
->The Final Exam is **this Saturday, December 7th from 11:30AM to 2:30PM**.
+{: .success }
+>The Final Exam is **this Saturday, June 7th from 11:30AM to 2:30PM**.
 >
->Earn 1 participation point by filling out both [SETs](https://academicaffairs.ucsd.edu/Modules/Evals/) and the internal [End-of-Quarter Survey](https://forms.gle/NQ76jTvq9799VvWq8) before Saturday, December 7th at 8AM.-->
+>Earn 1 participation point by filling out both [SETs](https://academicaffairs.ucsd.edu/Modules/Evals/) and the internal [End-of-Quarter Survey](https://forms.gle/hWqgRBp4B45LDMLW9) before Saturday, June 7th at 8AM.
 
 <!--{: .success }
 >The Midterm Exam is **this Monday, February 10th**. [See announcements here.](https://edstem.org/us/courses/70673/discussion/6127710)
