@@ -30,7 +30,7 @@ This site is **under construction**. Anything you read here is not finalized. Th
 -->
 
 {: .success }
->The Final Exam is **this Saturday, June 7th from 11:30AM to 2:30PM**.
+>The Final Exam is **this Saturday, June 7th from 11:30AM to 2:30PM in CENTER 101**.
 >
 >Earn 1 participation point by filling out both [SETs](https://academicaffairs.ucsd.edu/Modules/Evals/) and the internal [End-of-Quarter Survey](https://forms.gle/hWqgRBp4B45LDMLW9) before Saturday, June 7th at 8AM.
 
