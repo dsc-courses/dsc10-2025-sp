@@ -22,7 +22,7 @@ days:
         - name: REV
           type: lecture
           title: Final Review
-          html: resources/lectures/final_A.html
+          html: resources/lectures/final_A.pdf
           9am:
           11am:
         - name: PROJ
