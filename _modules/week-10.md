@@ -38,7 +38,8 @@ days:
         - name: REV
           type: lecture
           title: Final Review, Conclusion
-          url:
+          url: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2025-sp&subPath=lectures/lec27/lec27.ipynb
+          html: resources/lectures/lec27/lec27.html
     - date: 2025-6-7
       events: 
         - name: EXAM
