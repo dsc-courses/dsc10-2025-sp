@@ -23,8 +23,8 @@ days:
           type: lecture
           title: Final Review
           html: resources/lectures/final_A.pdf
-          9am:
-          11am:
+          9am: resources/lectures/final_review_9am.pdf
+          11am: resources/lectures/final_review_11am.pdf
         - name: PROJ
           type: proj
           title: Final Project
